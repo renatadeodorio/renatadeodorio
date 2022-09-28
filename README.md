@@ -1,7 +1,9 @@
 ### Olá! Eu sou Renata Deodório 👋🏽
 
-Graduada em Processos Gerenciais estou em transição de carreira para a área de tecnologia como desenvolvedora BackEnd, 
+⇨ Graduada em Processos Gerenciais estou em transição de carreira para a área de tecnologia como desenvolvedora BackEnd, 
 tendo finalizado o Programa Devstart da BeAcademy em parceria com a PayLivre ,com foco em PHP | Laravel.
+
+⇨ Atualmente estudando o curso Desenvolvimento Web Avançado 2022 com PHP, Laravel e Vue.JS da Udemy.
 
 
 - 🌵 Nordestina
