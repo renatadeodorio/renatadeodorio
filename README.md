@@ -13,14 +13,6 @@ tendo finalizado o Programa Devstart da BeAcademy em parceria com a PayLivre ,co
 - 👩🏾‍🎨 Arte
 - 🗣Trilíngue
 
-### Minhas Estastísticas:
-<div>
-  <a href="https://github.com/renatadeodorio">  
- <img align="center" height ="180em" src="https://github-readme-stats.vercel.app/api?username=renatadeodorio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-         
- <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatadeodorio&layout=compact&langs_count=7&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</a>
-
 ## Linguagens:
 
 <div style='display: inline block'><br>
