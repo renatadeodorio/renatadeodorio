@@ -35,6 +35,12 @@ tendo finalizado o Programa Devstart da BeAcademy em parceria com a PayLivre ,co
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renata-deod%C3%B3rio-293b63228)
 <a href ="mailto:renatadeod@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+## Visitas de perfil
+  
+  <p align="center" >   
+  <img src="https://profile-counter.glitch.me/renatadeodorio/count.svg" />  
+</p>
+
 
 
 
