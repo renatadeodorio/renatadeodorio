@@ -13,7 +13,14 @@ tendo finalizado o Programa Devstart da BeAcademy em parceria com a PayLivre ,co
 - 👩🏾‍🎨 Arte
 - 🗣Trilíngue
 
-## Linguagens:
+<a href="https://github.com/renatadeodorio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatadeodorio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatadeodorio&layout=compact&langs_count=7&theme=dark"/>
+    <div align="center">
+  <img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" width="400px" />
+  <br>" 
+    </div>
+<div style="display: inline_block"><br>
 
 <div style='display: inline block'><br>
     <img align='center' alt="css" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=black"/>
